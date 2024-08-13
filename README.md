@@ -1,1 +1,1 @@
-O arquivo java do o exercicio 01 está em Exerciocio01/src/packageTeste/SomarDoisNumeros.java
+O arquivo java do exercicio 01 está em Exercicio01/src/packageTeste/SomarDoisNumeros.java
